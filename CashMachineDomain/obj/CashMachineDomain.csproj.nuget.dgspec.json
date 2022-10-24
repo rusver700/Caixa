@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {}
+    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj": {}
   },
   "projects": {
-    "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
+        "projectUniqueName": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj",
         "projectName": "CashMachineDomain",
-        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
+        "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj",
         "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\obj\\",
+        "outputPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
