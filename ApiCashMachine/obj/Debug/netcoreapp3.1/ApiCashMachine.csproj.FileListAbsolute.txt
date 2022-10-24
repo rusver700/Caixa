@@ -1,0 +1,93 @@
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.exe
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.deps.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.dev.json
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.AssemblyReference.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfoInputs.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfo.cs
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CoreCompileInputs.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\staticwebassets\ApiCashMachine.StaticWebAssets.Manifest.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.RazorTargetAssemblyInfo.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CopyComplete
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.genruntimeconfig.cache
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rusve\OneDrive\Documentos\z.1Meus trabalhos\ApiCashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cs
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.exe
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.deps.json
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.json
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.dev.json
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.pdb
+C:\_TestesGitHub\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.AssemblyReference.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfoInputs.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfo.cs
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CoreCompileInputs.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cs
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\staticwebassets\ApiCashMachine.StaticWebAssets.Manifest.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.RazorTargetAssemblyInfo.cache
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CopyComplete
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\_TestesGitHub\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.genruntimeconfig.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.exe
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.deps.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.runtimeconfig.dev.json
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineIoC.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\bin\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.AssemblyReference.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfoInputs.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.AssemblyInfo.cs
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CoreCompileInputs.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\staticwebassets\ApiCashMachine.StaticWebAssets.Manifest.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.RazorTargetAssemblyInfo.cache
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.csproj.CopyComplete
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.dll
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.pdb
+C:\Users\rusve\OneDrive\Documentos\MeusProjetos\CashMachine\ApiCashMachine\obj\Debug\netcoreapp3.1\ApiCashMachine.genruntimeconfig.cache

@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CashMachineDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CashMachineDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CashMachineDomain.dll": {}
+        }
+      },
+      "CashMachineLB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CashMachineDomain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CashMachineLB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CashMachineLB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {
+      "sha512": "44rDtOf1JXXAFpNT2EXMExaDm/4OJ2RXOL9i9lE4bK427nzC7Exphv+beB6IgluyE2GIoo8zezTStMXI7MQ8WA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "CashMachineDomain/1.0.0": {
+      "type": "project",
+      "path": "../CashMachineDomain/CashMachineDomain.csproj",
+      "msbuildProject": "../CashMachineDomain/CashMachineDomain.csproj"
+    },
+    "CashMachineLB/1.0.0": {
+      "type": "project",
+      "path": "../CashMachineLB/CashMachineLB.csproj",
+      "msbuildProject": "../CashMachineLB/CashMachineLB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CashMachineDomain >= 1.0.0",
+      "CashMachineLB >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 3.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rusve\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
+      "projectName": "CashMachineIoC",
+      "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
+      "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
+      "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rusve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+              "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
+            },
+            "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
+              "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
