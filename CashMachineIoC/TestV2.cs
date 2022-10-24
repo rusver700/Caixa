@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CashMachineIoC
 {
-    internal class TestV1
+    internal class TestV2
     {
     }
 }

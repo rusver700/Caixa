@@ -62,6 +62,6 @@ namespace ApiCashMachine.Controllers
         {
             return Ok();
         }
-        //////////V1////////////
+        //////////V2///////////
     }
 }
