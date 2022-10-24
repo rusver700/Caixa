@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CashMachineLB/1.0.0": {
+        "dependencies": {
+          "CashMachineDomain": "1.0.0"
+        },
+        "runtime": {
+          "CashMachineLB.dll": {}
+        }
+      },
+      "CashMachineDomain/1.0.0": {
+        "runtime": {
+          "CashMachineDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CashMachineLB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CashMachineDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
