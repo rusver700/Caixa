@@ -6,6 +6,7 @@ namespace CashMachineIoC
 {
     public class TesteCommit
     {
+        public string Nome { get; set; }
+        public string Commit { get; set; }
     }
-    /////////teste/////////
 }
