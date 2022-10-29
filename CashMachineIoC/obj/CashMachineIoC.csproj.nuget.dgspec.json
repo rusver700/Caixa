@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineIoC\\CashMachineIoC.csproj": {}
+    "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj": {
+    "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj",
+        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
         "projectName": "CashMachineDomain",
-        "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj",
+        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
         "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\obj\\",
+        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineIoC\\CashMachineIoC.csproj": {
+    "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineIoC\\CashMachineIoC.csproj",
+        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
         "projectName": "CashMachineIoC",
-        "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineIoC\\CashMachineIoC.csproj",
+        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
         "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineIoC\\obj\\",
+        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,11 +93,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj": {
-                "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj"
+              "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
               },
-              "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\CashMachineLB.csproj": {
-                "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\CashMachineLB.csproj"
+              "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
+                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\CashMachineLB.csproj": {
+    "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\CashMachineLB.csproj",
+        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
         "projectName": "CashMachineLB",
-        "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\CashMachineLB.csproj",
+        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
         "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineLB\\obj\\",
+        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +166,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj": {
-                "projectPath": "C:\\Users\\rusve\\OneDrive\\Documentos\\MeusProjetos\\CashMachine\\CashMachineDomain\\CashMachineDomain.csproj"
+              "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
               }
             }
           }
