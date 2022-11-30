@@ -4,8 +4,9 @@ using System.Text;
 
 namespace CashMachineIoC
 {
-    internal class Metados
+    public class Metados
     {
         public string Acao { get; set; } 
+        public string Tipo { get; set; }
     }
 }
