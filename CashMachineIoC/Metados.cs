@@ -8,5 +8,7 @@ namespace CashMachineIoC
     {
         public string Acao { get; set; } 
         public string Tipo { get; set; }
+        public string Concluir { get; set; }
+
     }
 }
