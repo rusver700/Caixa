@@ -4,7 +4,8 @@ using System.Text;
 
 namespace CashMachineIoC
 {
-    internal class FioMerge2
+    public class FioMerge2
     {
+        public int Quantidade { get; set; }
     }
 }
