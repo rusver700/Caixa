@@ -7,5 +7,7 @@ namespace CashMachineIoC
     public class FioMerge2
     {
         public int Quantidade { get; set; }
+        public string Local { get; set; }
+
     }
 }
