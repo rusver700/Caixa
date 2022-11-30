@@ -16,4 +16,3 @@ namespace CashMachineIoC
         }
     }
 }
-////V7//////
