@@ -6,5 +6,6 @@ namespace CashMachineIoC
 {
     internal class FioMerge1
     {
+        public int Quantidade1 { get; set; }
     }
 }
