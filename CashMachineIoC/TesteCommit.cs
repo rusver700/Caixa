@@ -10,6 +10,7 @@ namespace CashMachineIoC
         public string Local { get; set; }
         public string Commit { get; set; }
         public string Pull { get; set; }
+        public string Push { get; set; }
 
     }
 }
