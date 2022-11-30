@@ -6,5 +6,6 @@ namespace CashMachineIoC
 {
     internal class Metados
     {
+        public string Acao { get; set; } 
     }
 }
