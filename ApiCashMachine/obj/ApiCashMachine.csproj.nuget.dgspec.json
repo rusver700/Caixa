@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_TestesGitHub1\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj": {}
+    "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj": {}
   },
   "projects": {
-    "C:\\_TestesGitHub1\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj": {
+    "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj",
+        "projectUniqueName": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj",
         "projectName": "ApiCashMachine",
-        "projectPath": "C:\\_TestesGitHub1\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj",
-        "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\_TestesGitHub1\\Caixa\\ApiCashMachine\\obj\\",
+        "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\ApiCashMachine\\ApiCashMachine.csproj",
+        "packagesPath": "C:\\Users\\U003178\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\ApiCashMachine\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rusve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\U003178\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
-                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
+              "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+                "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
               },
-              "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {
-                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj"
+              "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {
+                "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj"
               }
             }
           }
@@ -63,11 +58,28 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.26, 3.1.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -76,25 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+    "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
+        "projectUniqueName": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
         "projectName": "CashMachineDomain",
-        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
-        "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\obj\\",
+        "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj",
+        "packagesPath": "C:\\Users\\U003178\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rusve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\U003178\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +110,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,35 +133,44 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {
+    "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
+        "projectUniqueName": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
         "projectName": "CashMachineIoC",
-        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
-        "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineIoC\\obj\\",
+        "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\CashMachineIoC.csproj",
+        "packagesPath": "C:\\Users\\U003178\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineIoC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rusve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\U003178\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,18 +178,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
-                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
+              "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+                "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
               },
-              "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
-                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj"
+              "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
+                "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj"
               }
             }
           }
@@ -199,35 +214,44 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
+    "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
+        "projectUniqueName": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
         "projectName": "CashMachineLB",
-        "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
-        "packagesPath": "C:\\Users\\rusve\\.nuget\\packages\\",
-        "outputPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\obj\\",
+        "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
+        "packagesPath": "C:\\Users\\U003178\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rusve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\U003178\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,15 +259,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
-                "projectPath": "C:\\_TestesGitHub1\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
+              "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj": {
+                "projectPath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineDomain\\CashMachineDomain.csproj"
               }
             }
           }
@@ -263,17 +286,30 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
