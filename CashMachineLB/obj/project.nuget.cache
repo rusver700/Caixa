@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7/5tggRDpX6rTwCDmva0FjYInq9tO/JK5N6WKBqdPc5HIgEanJt2kH59yvJBF1qk7NMPqUT7A6cfdDtWZ3S3VA==",
+  "dgSpecHash": "n4ARBmtsSD1nAjfqQPfFOQCuMFZ4AMIJi0h71ynQxwo8GGD+8gHWcHX8CzGq5LdNCjFgOk7krKeJOvKs7WYR6g==",
   "success": true,
-  "projectFilePath": "C:\\_TestesGitHub1\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\U003178\\Documents\\14.Foca no Junior\\TesteGitHub\\Caixa\\CashMachineLB\\CashMachineLB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U003178\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\U003178\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\U003178\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
