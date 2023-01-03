@@ -50,3 +50,16 @@ C:\_TestesGitHub1\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.cspr
 C:\_TestesGitHub1\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.csproj.CopyComplete
 C:\_TestesGitHub1\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.dll
 C:\_TestesGitHub1\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\bin\Debug\netcoreapp3.1\CashMachineLB.deps.json
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\bin\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\bin\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.csproj.AssemblyReference.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.AssemblyInfoInputs.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.AssemblyInfo.cs
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.csproj.CoreCompileInputs.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.csproj.CopyComplete
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineLB\obj\Debug\netcoreapp3.1\CashMachineLB.pdb

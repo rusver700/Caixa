@@ -58,3 +58,18 @@ C:\_TestesGitHub1\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.cs
 C:\_TestesGitHub1\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.csproj.CopyComplete
 C:\_TestesGitHub1\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.dll
 C:\_TestesGitHub1\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineIoC.deps.json
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineIoC.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineIoC.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineDomain.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineLB.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineDomain.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\bin\Debug\netcoreapp3.1\CashMachineLB.pdb
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.csproj.AssemblyReference.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.AssemblyInfoInputs.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.AssemblyInfo.cs
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.csproj.CoreCompileInputs.cache
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.csproj.CopyComplete
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.dll
+C:\Users\U003178\Documents\14.Foca no Junior\TesteGitHub\Caixa\CashMachineIoC\obj\Debug\netcoreapp3.1\CashMachineIoC.pdb
