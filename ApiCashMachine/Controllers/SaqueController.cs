@@ -62,6 +62,11 @@ namespace ApiCashMachine.Controllers
         {
             return Ok();
         }
-        //////////V1////////////
+        [HttpGet("testGetok")]
+        public IActionResult TestGetV11()
+        {
+            return Ok();
+        }
+        //////////V1.1////////////
     }
 }
